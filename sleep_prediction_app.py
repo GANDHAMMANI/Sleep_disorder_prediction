@@ -161,7 +161,7 @@ def main():
         """
         st.markdown(hide_menu_style, unsafe_allow_html=True)
         
-        # code for html ☘️ 🌾 🌳 👨‍🌾  🍃
+        
 
 
 hide_menu_style = """
