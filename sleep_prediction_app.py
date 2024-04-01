@@ -1,7 +1,6 @@
 import pickle as pkl 
 import streamlit as st
 import numpy as np
-import sklearn
 
 st.set_page_config(page_title="Sleep Predictor", page_icon="🏥", layout='wide', initial_sidebar_state="collapsed")
 
