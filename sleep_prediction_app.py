@@ -103,7 +103,7 @@ def main():
     with col2:
 
         # Reading Pickle File
-        with open("sleep_disorder_prediction.pkl", "rb") as f:
+        with open("sleep_disorder_pred_RF.pickle", "rb") as f:
             model = pkl.load(f)
 
         # Function to predict sleep disorder
