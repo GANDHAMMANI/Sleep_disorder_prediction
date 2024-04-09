@@ -94,7 +94,7 @@ def response_generator(user_input):
     elif "apnea" in user_input.lower():
         return "Sleep apnea is a sleep disorder characterized by pauses in breathing or shallow breaths during sleep. It can lead to disrupted sleep and daytime fatigue. There are different types of sleep apnea, including obstructive sleep apnea and central sleep apnea. Treatment options may include lifestyle changes, breathing devices, or surgery. If you suspect you have sleep apnea, it's important to seek medical advice for proper diagnosis and treatment."
     elif "develop" in user_input.lower():
-        return "The  application was build by Gandham Mani Saketh, using Python ,Machine Learning, Streamlit Web-Framework & HTML& CSS
+        return "The  application was build by Gandham Mani Saketh, using Python ,Machine Learning, Streamlit Web-Framework & HTML& CSS"
     elif "application" in user_input.lower():
         return "The  application was build by Mani Saketh, which aims to assist users in identifying potential sleep disorders such as Insomnia and Apnea. By analyzing user input and patterns, Astra provides personalized guidance and encourages users to seek medical advice if necessary."
     elif "purpose" in user_input.lower():
