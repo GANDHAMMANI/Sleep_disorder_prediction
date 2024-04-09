@@ -168,7 +168,7 @@ def main():
             </div>
             """, unsafe_allow_html=True)
 
-    col2.image('sleep_disorder.png', use_column_width=False, width=300)
+    col2.image('ezgif-2-6a9150954d.jpg', use_column_width=False, width=300)
 
 
     st.sidebar.title('Virtual Assistant' )
