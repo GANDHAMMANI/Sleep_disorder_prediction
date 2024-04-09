@@ -3,8 +3,7 @@ import streamlit as st
 import numpy as np
 import time
 import random
-from fpdf import FPDF
-import base64
+
 
 st.set_page_config(page_title="Sleep Predictor", page_icon="🏥", layout='wide', initial_sidebar_state="collapsed")
 
