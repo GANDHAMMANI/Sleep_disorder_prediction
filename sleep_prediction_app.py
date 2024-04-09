@@ -81,7 +81,7 @@ def response_generator(user_input):
         "thanks": ["You're welcome!", "No problem!", "Glad I could help!"]
     }
     
-    if  "hi" or 'hey' in user_input.lower():
+    if  "hi" or  in user_input.lower():
         return random.choice(custom_responses["greeting"])
     elif "bye" in user_input.lower():
         return random.choice(custom_responses["farewell"])
