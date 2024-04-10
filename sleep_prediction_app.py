@@ -96,7 +96,7 @@ def response_generator(user_input):
     elif "develop" in user_input.lower():
         return "The  application was build by Gandham Mani Saketh, using Python ,Machine Learning, Streamlit Web-Framework & HTML& CSS"
     elif "application" in user_input.lower():
-        return "The  application was build by Mani Saketh, which aims to assist users in identifying potential sleep disorders such as Insomnia and Apnea. By analyzing user input and patterns, Astra provides personalized guidance and encourages users to seek medical advice if necessary."
+        return "The  application was build by Mani Saketh, which aims to assist users in identifying potential sleep disorders such as Insomnia and Apnea. By analyzing user input and patterns, It  provides personalized guidance and encourages users to seek medical advice if necessary."
     elif "purpose" in user_input.lower():
         return "The purpose of our application is to raise awareness about sleep disorders and empower users to take proactive steps towards better sleep health. By leveraging AI technology and healthcare insights, we aim to help individuals identify potential sleep issues and seek appropriate support."
     elif "yourself" in user_input.lower():
