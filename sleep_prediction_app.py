@@ -5,7 +5,7 @@ import time
 import random
 
 
-st.set_page_config(page_title="Sleep Predictor", page_icon="🏥", layout='wide', initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Sleep Health Tracker", page_icon="🏥", layout='wide', initial_sidebar_state="collapsed")
 
 # Define mappings and other necessary data
 gender_mapping = {
