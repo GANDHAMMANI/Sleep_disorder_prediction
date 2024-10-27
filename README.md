@@ -30,6 +30,6 @@ You can interact with the live Streamlit application here: [Sleep Disorder Predi
   - **Machine Learning**: `scikit-learn` 🤖, `pandas` 🐼, `numpy` 🔢
   - **Visualization**: `matplotlib` 📉, `seaborn` 🌊
   - **Web Application**: `Streamlit` 🌐
-- **Model**: Supervised machine learning model (e.g., SVM, Random Forest)
+- **Model**: Supervised machine learning model (Random Forest)
 - **Deployment**: Streamlit 🚀
 
