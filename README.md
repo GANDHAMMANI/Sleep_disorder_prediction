@@ -33,11 +33,3 @@ You can interact with the live Streamlit application here: [Sleep Disorder Predi
 - **Model**: Supervised machine learning model (e.g., SVM, Random Forest)
 - **Deployment**: Streamlit 🚀
 
-## 📦 Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sleep-disorder-prediction.git
-   cd sleep-disorder-prediction
