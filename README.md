@@ -21,7 +21,7 @@ Sleep disorders, if not detected early, can have a significant impact on overall
 
 ## 🚀 Application Link
 
-You can interact with the live Streamlit application here: [Sleep Disorder Prediction Web App](#)
+You can interact with the live Streamlit application here: [Sleep Disorder Prediction Web App](https://sleepdisorderprediction-saketh07.streamlit.app/)
 
 ## 🛠️ Technology Stack
 
