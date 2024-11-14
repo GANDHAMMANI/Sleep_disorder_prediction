@@ -1,6 +1,7 @@
 # 💤 Sleep Disorder Prediction
 
 This repository contains the code for a predictive model aimed at detecting sleep disorders using machine learning. The model has been deployed as a live web application using **Streamlit**, enabling users to seamlessly interact with the application and visualize predictions. The project is part of a comprehensive study aimed at improving healthcare outcomes through the early detection of sleep disorders.
+![p](https://github.com/user-attachments/assets/e890ce36-fafb-4e2b-be7c-5ffa328f5f9c)
 
 ## 📝 Project Overview
 
